@@ -1,5 +1,5 @@
 # Hello world NaturalONE code snippet
-A simple step-by-step guide to creating a `Natural program in an Adabas and Natural` context which are the propreity languages for `Software AG`
+A simple step-by-step guide to creating a `xxx` context which are the propreity languages for `xxx`
 
 - Step 1: Watch the attached video (xxxx)...
 - Step 2: Get the xxxx...
