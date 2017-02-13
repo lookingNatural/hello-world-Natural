@@ -1,4 +1,4 @@
-# Hello world NaturalONE code snippet
+# Hello world Naturalxxx code snippet
 A simple step-by-step guide to creating a `xxx` context which are the propreity languages for `xxx`
 
 - Step 1: Watch the attached video (xxxx)...
