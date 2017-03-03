@@ -1,9 +1,14 @@
-# Hello world Naturalxxxx code snippet
-A simple step-by-step guide to creating a `xxxx` context which are the propreity languages for `xxx`
+# Hello world Natural code snippet
+A simple step-by-step guide to creating your very first `Hello World` program in Natural programming language environment which is a propreity to Software AG
 
-- Step 1: Watch the attached video (xxxx)...
-- Step 2: Get the xxxx...
-- Step 3: Install xxxx...
-- Step 4: Open the xxxx...
-- Step 5: Work through xxxx...
-- Step 6: End :+1:
+- Step 1: Watch the very short tutorial video attached with this page 
+- Step 2: Get your software (An Integrated Development Environment) from 
+    http://techcommunity.softwareag.com/ecosystem/communities/public/adanat/products/naturalone/downloads/
+- Step 3: Install the Software AG Designer IDE
+- Step 4: Still remember the steps from the video tutorial regardgint the usage of Cheatsheets !
+    - No problem, if you don't, have a look here-->
+      - Run the Software AG Deisgner application on your computer
+      - Go to Help--> Cheatsheets
+      - Select the Adabas and Natural Cheatsheets from the menu
+      - Work through the steps from the cheatsheet !
+- Step 5: End :+1:
