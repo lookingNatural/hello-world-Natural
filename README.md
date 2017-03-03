@@ -9,6 +9,6 @@ A simple step-by-step guide to creating your very first `Hello World` program in
     - No problem, if you don't, just have a look here-->
       - Run the Software AG Designer application on your computer
       - Go to the Eclipse menu `Help` --> `Cheatsheets`
-      - Select the `Adabas and Natural Hello World` from the menu
+      - Select the `Adabas and Natural Hello World` from the options
       - Work through the steps from the cheatsheet !
 - Step 5: End :+1:
