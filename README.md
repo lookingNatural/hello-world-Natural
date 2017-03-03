@@ -6,6 +6,13 @@ A simple step-by-step guide to creating your very first `Hello World` program in
     -   http://techcommunity.softwareag.com/ecosystem/communities/public/adanat/products/naturalone/downloads/
 - Step 3: Install the Software AG Designer IDE
 - Step 4: Still remember the steps from the video tutorial regarding the usage of Cheatsheets ?!
+
+    Sample "Hello World" code in Natural...
+    
+        - WRITE "Hello World"
+        - END
+    And that's it !
+    
     - No problem, if you don't, just have a look here-->
       - Run the Software AG Designer application on your computer
       - Go to the Eclipse menu `Help` --> `Cheatsheets`
