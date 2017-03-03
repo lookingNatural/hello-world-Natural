@@ -8,7 +8,7 @@ A simple step-by-step guide to creating your very first `Hello World` program in
 - Step 4: Still remember the steps from the video tutorial regarding the usage of Cheatsheets ?!
     - No problem, if you don't, just have a look here-->
       - Run the Software AG Deisgner application on your computer
-      - Go to Help--> Cheatsheets
-      - Select the Adabas and Natural Cheatsheets from the menu
+      - Go to the Eclipse menu `Help` --> `Cheatsheets`
+      - Select the `Adabas and Natural Cheatsheets` from the menu
       - Work through the steps from the cheatsheet !
 - Step 5: End :+1:
