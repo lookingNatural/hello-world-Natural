@@ -7,13 +7,13 @@ A simple step-by-step guide to creating your very first `Hello World` program in
 - Step 3: Install the Software AG Designer IDE
 - Step 4: Still remember the steps from the video tutorial regarding the usage of Cheatsheets ?!
 
-    Sample "Hello World" code in Natural...
+    [Motivation]Sample "Hello World" code in Natural...
     
         - WRITE "Hello World"
         - END
     And that's it !
     
-    - No problem, if you don't, just have a look here-->
+    - Just have a look here to quickly launch the cheatsheets from Eclipse -->
       - Run the Software AG Designer application on your computer
       - Go to the Eclipse menu `Help` --> `Cheatsheets`
       - Select the `Adabas and Natural Hello World` from the options
