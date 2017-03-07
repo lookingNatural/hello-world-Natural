@@ -13,8 +13,10 @@ A simple step-by-step guide to creating your very first `Hello World` program in
       - Select the `Adabas and Natural Hello World` from the options
       - Work through the steps from the cheatsheet !
 
-        Sample "Hello World" code in Natural-->     
+        Sample "Hello World" code in Natural-->
+        
         -   WRITE "Hello World"
         -   END
+        
         And that's it !   
 - Step 5: End :+1:
