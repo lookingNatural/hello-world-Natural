@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/lookingNatural/hello-world-Natural/master/tutorial.html
+https://rawgit.com/lookingNatural/hello-world-Natural/master/tutorial.html
